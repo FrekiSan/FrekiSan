@@ -4,7 +4,7 @@
 - 📫 Comment me contacter? Via mail @maxime.orange@gmail.com, sur LinkedIn @[MaximeOrange](https://www.linkedin.com/in/maxime-o-a668a3a8/), sur twitch @[Freki_Goron](https://twitch.tv/Freki_Goron) 
 - 😄 Pronom: Il/lui
 - ⚡ Fun fact: J'ai un T.D.I. 
-
+<p></p>
 - 👋 Hi, I’m Maxime "Freki" Orange @FrekiSan
 - 👀 I’m interested in graphisme, gaming, learn new thing
 - 🌱 I’m currently learning coding with the EEDN
