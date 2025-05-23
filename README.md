@@ -1,7 +1,3 @@
-<style> li{
-  list-style-type: none;
-} </style>
-
 - 👋 Salut, Moi c'est Maxime "Freki" Orange, @FrekiSan
 - 👀 Je suis intéréssé par le graphisme, les jeux-vidéo et je suis un autodidacte passioné de nouveauté
 - 🌱 IJe suis actuellement un bébé dev' a l'EEDN
