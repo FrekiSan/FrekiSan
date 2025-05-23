@@ -1,4 +1,4 @@
-<style> ul{
+<style> li{
   list-style-type: none;
 } </style>
 
